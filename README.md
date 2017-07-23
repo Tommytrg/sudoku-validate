@@ -10,7 +10,7 @@
 
 **NOTE:** more badges availables in [shields.io](https://shields.io/) -->
 
-> I'm a lazy
+> A sudoku solution validator
 
 ## Install
 
@@ -18,7 +18,7 @@
 $ npm install sudoku-validate --save
 ```
 
-## Usage
+<!-- ## Usage
 
 ```js
 const sudokuValidate = require('sudoku-validate')
@@ -45,8 +45,8 @@ Lorem ipsum.
 Type: `boolean`<br>
 Default: `false`
 
-Lorem ipsum.
+Lorem ipsum. -->
 
 ## License
 
-MIT © [Tomas](https://github.com/Tommytrg).
+MIT © [tommytrg](https://github.com/Tommytrg).
