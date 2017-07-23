@@ -1,12 +1,6 @@
 # sudoku-validate
 
-<p align="center">
-  <br>
-  <img src="https://i.imgur.com/Mh13XWB.gif" alt="sudoku-validate">
-  <br>
-</p>
-
-![Last version](https://img.shields.io/github/tag/Tommytrg/sudoku-validate.svg?style=flat-square)
+<!-- ![Last version](https://img.shields.io/github/tag/Tommytrg/sudoku-validate.svg?style=flat-square)
 [![Build Status](https://img.shields.io/travis/Tommytrg/sudoku-validate/master.svg?style=flat-square)](https://travis-ci.org/Tommytrg/sudoku-validate)
 [![Coverage Status](https://img.shields.io/coveralls/Tommytrg/sudoku-validate.svg?style=flat-square)](https://coveralls.io/github/Tommytrg/sudoku-validate)
 [![Dependency status](https://img.shields.io/david/Tommytrg/sudoku-validate.svg?style=flat-square)](https://david-dm.org/Tommytrg/sudoku-validate)
@@ -14,7 +8,7 @@
 [![NPM Status](https://img.shields.io/npm/dm/sudoku-validate.svg?style=flat-square)](https://www.npmjs.org/package/sudoku-validate)
 [![Donate](https://img.shields.io/badge/donate-paypal-blue.svg?style=flat-square)](https://paypal.me/Tommytrg)
 
-**NOTE:** more badges availables in [shields.io](https://shields.io/)
+**NOTE:** more badges availables in [shields.io](https://shields.io/) -->
 
 > I'm a lazy
 
