@@ -1,0 +1,37 @@
+{
+  "name": "sudoku-validate",
+  "description": "A sudoku solution validator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": {
+    "name": "tommytrg",
+    "email": "tomastrg22@gmail.com",
+    "url": "https://github.com/Tommytrg"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tommytrg/sudoku-validate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Tommytrg/sudoku-validate/issues"
+  },
+  "keywords": ["sudoku"],
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.1.0",
+    "coveralls": "latest",
+    "git-dirty": "latest",
+    "mocha": "latest",
+    "nyc": "latest",
+    "should": "latest"
+  },
+  "engines": {
+    "node": ">= 6"
+  },
+  "scripts": {
+    "clean": "rm -rf node_modules",
+    "coveralls": "nyc report --reporter=text-lcov | coveralls",
+    "test": "mocha test.js"
+  },
+  "license": "MIT"
+}
